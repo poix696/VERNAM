@@ -1,0 +1,6 @@
+#ingore .idea directory
+.idea/
+#ingore lib directory
+lib/
+#ingore pyvenv.cfg file
+pyvenv.cfg
